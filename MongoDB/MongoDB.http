@@ -1,0 +1,6 @@
+@MongoDB_HostAddress = http://localhost:27017
+
+GET {{MongoDB_HostAddress}}
+Accept: application/json
+
+###
